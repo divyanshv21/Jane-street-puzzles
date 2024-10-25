@@ -1,15 +1,7 @@
 Jane Street Challenges
 
 This repository contains solutions to various algorithmic challenges posed by Jane Street. The challenges cover areas like dynamic programming, graph theory, sorting, and optimization.
-
-Overview
-
-Each challenge folder includes:
-
-	•	A problem description.
-	•	Code implementation (primarily in Python).
-	•	Relevant test cases. 
-
+ 
 Technologies
 
 	•	Languages: Python
